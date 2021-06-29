@@ -1,0 +1,413 @@
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #737373;
+	font-size: 20px;
+}
+
+h4 {
+	font-family: Arial, Charcoal, sans-serif;
+	color: #993333;
+}
+
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #993333;
+}
+
+h2 {
+	font-family: Arial, Geneva, sans-serif;
+	color: #993333;
+}
+
+h3 {
+	font-family: Arial, Geneva, sans-serif;
+	color: #993333;
+	font-size: 24px;
+}
+
+li {
+	font-size: 20px;
+	font-family: Arial, Geneva, sans-serif;
+}
+
+body {
+	background-color: #f2f2f2;
+	
+}
+
+hr {
+	width: 50%;
+}
+
+strong {
+	color: #993333;
+}
+
+footer {
+	font-style: italic;
+	padding-top: 1em;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+}
+
+footer p {
+	font-size: 12px;
+}
+
+nav {
+	padding-bottom: 2em;
+	padding-top: 2em;
+	background-color: #000000;
+}
+
+#blank p {
+	padding-bottom: 6em;
+}
+
+#space {
+	font-size: 16px;
+}
+
+#space footer {
+	padding-top: 16em;
+	padding-bottom: 3em;
+}
+
+#capitol {
+	padding-bottom: 8em;
+}
+
+#winter {
+	padding-bottom: 8em;
+}
+
+#wrapper {
+	text-align: center;
+	background: FFE6B3;
+	opacity: 1;
+}
+
+#list {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 500px;
+}
+
+#stubbs {
+	float: right;
+	margin-right: 300px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -80px;	
+	padding-bottom: 0.5em;
+}
+
+#gibson {
+	float: right;
+	margin-right: 300px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -80px;
+	padding-bottom: 0.5em;
+}
+
+#continental {
+	float: right;
+	margin-right: 300px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -80px;
+	padding-bottom: 0.5em;
+}
+#planes {
+	float: right;
+	margin-right: 65px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -30px;
+	padding-left: 60px;
+}
+
+#airport {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 350px;
+	padding-bottom: 6em;
+	padding-right: 5px;
+}
+
+#airport h3 {
+	padding-left: 185px;
+	padding-right: 115px;
+}
+
+#roads {
+	float: right;
+	margin-right: 65px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -30px;
+	padding-left: 60px;
+}
+
+#highway {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 350px;
+	padding-bottom: 6em;
+}
+
+#highway h3 {
+	padding-left: 135px;
+	padding-right: 75px;
+}
+
+#metro {
+	float: right;
+	margin-right: 65px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -30px;
+	padding-left: 60px;
+}
+
+#transport {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 350px;
+	padding-bottom: 6em;
+}
+
+#transport h3 {
+	padding-left: 120px;
+	padding-right: 65px;
+}
+
+#cars {
+	float: right;
+	margin-right: 65px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -30px;
+	padding-left: 60px;
+}
+
+#share {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 350px;
+	padding-bottom: 6em;
+}
+
+#share h3 {
+	padding-left: 150px;
+	padding-right: 90px;
+}
+
+#walk {
+	float: right;
+	margin-right: 65px;
+	margin-bottom: 30px;
+	position: relative;
+	top: -30px;
+	padding-left: 60px;
+}
+
+#cycle {
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 60%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-left: 350px;
+	padding-bottom: 6em;
+}
+
+#cycle h3 {
+	padding-left: 130px;
+	padding-right: 70px;
+}
+
+#high img {
+	float: right;
+	margin-right: 150px;
+	margin-bottom: 30px;
+	margin-top: -50px;
+	position: relative;
+	top: -5px;
+	padding-bottom: 2em;
+}
+
+#high {
+	padding-bottom: 8em;
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 55%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-top: 70px;
+	margin-left: 500px;
+}
+
+#mid img {
+	float: right;
+	margin-right: 150px;
+	margin-bottom: 30px;
+	margin-top: -50px;
+	position: relative;
+	top: -5px;
+	padding-bottom: 2em;
+	padding-left: 3em;
+}
+
+#mid {
+	padding-bottom: 8em;
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 55%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-top: 70px;
+	margin-left: 500px;
+}
+
+#hotel h3 {
+	margin-left: 875px;
+	margin-right: 875px;
+}
+
+#low img {
+	float: right;
+	margin-right: 150px;
+	margin-bottom: 30px;
+	margin-top: -20px;
+	position: relative;
+	top: -5px;
+	padding-bottom: 2em;
+	padding-left: 3em;
+}
+
+#low {
+	padding-bottom: 8em;
+	text-align: left;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+	width: 55%;
+	min-width: 960px;
+	max-width: 2048px;
+	margin-top: 70px;
+	margin-left: 500px;
+}
+
+#hotel p {
+	padding-bottom: 3em;
+}
+
+#hotel li {
+	padding-bottom: 0.5em;
+	font-family: Abril Fatface, Helvetica, sans-serif;
+}
+
+#list li {
+	padding-bottom: 0.5em;
+}
+
+#list h3 {
+	padding-bottom: 0.5em;
+}
+
+#drink {
+	padding-bottom: 3.5em;
+	margin-top: 70px;
+}
+
+#eat {
+	padding-bottom: 2.5em;
+}
+
+#dance {
+	margin-top: 70px;
+}
+
+#travel hr {
+	width: 56%;
+	margin-left: 350px;
+}
+
+#local hr {
+	width: 45%;
+	margin-left: 480px;
+}
+
+nav :link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+nav :visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+nav :hover {
+	color: #006666;
+	text-decoration: none;
+}
+
+#list li :link {
+	color: #006666;
+	text-decoration: none;
+}
+
+#list li :visited {
+	color: #006666;
+	text-decoration: none;
+}
+
+#list li :hover {
+	color: #002699;
+	text-decoration: none;
+}
+
+#hotel li :link {
+	color: #006666;
+	text-decoration: none;
+}
+
+#hotel li :visited {
+	color: #006666;
+	text-decoration: none;
+}
+
+#hotel li :hover {
+	color: #002699;
+	text-decoration: none;
+}
+
+.imgs {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.season {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+
+
+
+
